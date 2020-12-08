@@ -6,5 +6,5 @@ Automatically reels in fish by checking subtitles to see if fishing rod moved.
 **INSTRUCTIONS:**
 
 1. Download/Clone repository
-2. Run script in command terminal
+2. Run script in command terminal `python script.py`
 3. Switch to Minecraft and start fishing by clicking right mouse once.
