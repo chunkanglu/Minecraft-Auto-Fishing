@@ -1,9 +1,8 @@
-from python_imagesearch.imagesearch import imagesearcharea, imagesearch
 import pyautogui
 from time import sleep
 
 while True:
-    #pos = imagesearch("./Fishing subtitle.png")
+
     pos = pyautogui.locateOnScreen("./Fishing subtitle.png", grayscale=True)
 
     if(pos):
